@@ -1,0 +1,10 @@
+
+#viewtableFixHead{
+overflow: auto; height: 100px;
+border: 1px solid green;
+
+}
+
+#viewtableFixHead thead th { position: sticky; top: 0; z-index: 1; }
+
+th     { background:#eee; }
